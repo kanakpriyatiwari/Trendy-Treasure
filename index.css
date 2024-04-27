@@ -1,0 +1,347 @@
+/* CSS PART */
+
+body{
+        overflow-x: hidden;
+        background-color: rgb(255, 254, 252);
+}
+/* NAVBAR CSS */
+.navbar{
+    background-color:rgb(255, 247, 237);
+    
+    
+}
+.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 31px;
+    color: #4e0aa8;
+
+}
+.nav-item{
+    margin-right: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    
+} 
+
+.nav-link{
+    color: #1f0344;
+    
+}
+.nav-link:hover {
+    border-bottom: 2px solid;
+    color: orangered;
+  
+}
+/* CAROUSEL */
+#banner3{
+    width: 1200px;
+    height: 500px;
+    margin-left: 150px;
+   
+    
+}
+#banner1{
+    width: auto;
+    height: 500px;
+    margin-left: 150px;
+}
+/*  */
+#heading1 h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 55px;
+    text-transform: capitalize;
+    font-size: 55px;
+    
+}
+
+#latest_collection{
+    margin-top: 55px;
+    margin-left: 75px;
+   
+}
+
+#bags_description1{
+    
+    margin-left: 92px;
+    margin-top: 22px;
+    font-size: 25px;
+}
+#bags_description2{
+    
+    margin-left: 72px;
+    margin-top: 19px;
+    font-size: 25px;
+}
+#bags_description3{
+    
+    margin-left: 92px;
+    /* margin-bottom: 12px; */
+    font-size: 25px;
+}
+.collection_pics{
+    width: 270px;
+    height: 270px;
+}
+.collection_pics3{
+    width: 350px;
+}
+.btn-category{
+    background-color:bisque;
+    color: white;
+    margin-left: 625px;
+    margin-top: 20px;
+    
+}
+
+
+/* premium_luxury */
+ #premium_luxury{
+   
+    background-color: bisque;
+    color:rgb(105, 58, 58);
+    padding: 120px;
+    height: 422px;
+  
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#box1{
+    margin-top: 55px;
+}
+
+#heading2{
+    font-size: 55px;
+}
+
+#pic1{
+    height: 420px;
+    width: 400px;
+}
+/* NEW ARRIVALS */
+#new_arrivals{
+ 
+    margin-top: 72px;
+    text-transform: capitalize;
+    font-size: 55px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#new_arrivals_cards{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.cream{
+    background-color: bisque;
+}
+.card
+{
+    width: 200px;
+    border-radius: 0%;
+
+}
+.view_btn{
+    width: 220px;
+    border-radius: 0;
+}
+/* styling */
+
+#styling{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 45px;
+    font-size: 25px;
+}
+
+#styling_div{
+    margin-top: 50px;
+  margin-left: 80px;
+}
+
+.styling-pic{
+    width: 350px;
+   margin-right: 70px;
+    padding: none;
+   
+}
+
+
+
+.position-relative1 {
+    position: relative;
+}
+
+.overlay-text1 {
+    position: absolute;
+    font-size: 35px;
+    top: 180px; /* Adjust as needed */
+    left: 15px; /* Adjust as needed */
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    padding: 5px;
+    font-weight: bold;
+    white-space: nowrap;
+}
+.position-relative2 {
+    position: relative;
+}
+
+.overlay-text2 {
+    position: absolute;
+    font-size: 35px;
+  
+    top: 590px; /* Adjust as needed */
+    /* left: 15px; Adjust as needed */
+    left: 85px;
+    font-size: 35px;
+    /* transform: rotate(-90deg); */
+    transform-origin: left top;
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    padding: 5px;
+    font-weight: bold;
+    white-space: nowrap;
+}
+.position-relative3 {
+    position: relative;
+}
+
+.overlay-text3 {
+    position: absolute;
+    font-size: 35px;
+  
+    top: 1px; /* Adjust as needed */
+    /* left: 15px; Adjust as needed */
+    left: 85px;
+    font-size: 35px;
+    /* transform: rotate(-90deg); */
+    transform-origin: left top;
+    color: rgb(222, 222, 222);
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    padding: 5px;
+    font-weight: bold;
+    white-space: nowrap;
+}
+/* WHY TO BUY FROM US */
+.new_box{
+    background-color: rgb(255, 231, 201);
+    margin-top: 60px;
+}
+#heading-new-box {
+    text-transform: capitalize;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+.icon-description{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+.icon-pic{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.material-symbols-outlined{
+    margin-left: 30px;
+}
+/* STORY */
+.story-box{
+    margin-top: 80px;
+}
+#story-pic1{
+    width: 500px;
+    margin-left: 150px;
+}
+#story-title{
+    text-transform: capitalize;
+    margin-top: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#story-paragraph{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+}
+.btn-story{
+    background-color:rgb(213, 179, 140);
+    color: white;
+    
+}
+.btn-story:hover{
+     background-color:rgb(213, 179, 140); 
+    /* color: white;  */
+    text-decoration: none;
+    
+}
+/* last-pics */
+
+#last-pics{
+    background-color: rgb(255, 233, 205);
+    margin-top: 40px;
+    height: 350px;
+    /* margin-left: 50px; */
+}
+.another-cards{
+    margin-top: 20px;
+    margin-left: 350px;
+   
+    width: 210px;
+}
+/* community box */
+#community-box{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#community-title{
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* #input-box{
+    width: 200px;
+    margin-left: 520px;
+    border-radius: 22px;
+    margin-top: 30px;
+} */
+.input-group {
+    position: relative;
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 40px;
+   
+}
+/* #input-box{
+    width: 400px;
+} */
+
+.input-group-addon {
+    position: absolute;
+   
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 6px 12px;
+    pointer-events: none;
+    background-color: transparent;
+    border: none;
+    z-index: 2;
+}
+/* FOOTER */
+#footer{
+    background-color: rgb(255, 224, 184);
+    margin-top: 50px;
+}
+#footer img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
